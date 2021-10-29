@@ -9,7 +9,7 @@ export default function Home({results}) {
   return (
     <div>
       <Head>
-        <title>Kyulol "hulu clone" with reactJs and nextJs</title>
+        <title>Kyulol "Hulu clone" with reactJs and nextJs</title>
         <meta name="description" content="ReactJs, TailwindCSS, nextJs, API call etc" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
         <link rel="alternate icon" href="/favicon.ico"/>
